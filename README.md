@@ -1,0 +1,1 @@
+Simple project created for the sixth homework for the subject DevOps at the Faculty of Computer Science and Enigneering 
